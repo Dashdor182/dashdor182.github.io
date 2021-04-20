@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
+
+.jumbocenter{
+    padding-top: 10%;
+    margin: auto;
+}
+
+/*header style*/
+.header{
+    background-image: url('../images/partybg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   }
+
+   .jumbotron{
+       background-color:rgba(0, 0, 0, 0.438)!important;
+       color:white !important;
+   }
+
+   .jumbotron h1,h2{
+    font-family:"Cinzel"!important;
+   }
+
+.info{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    }
+
+.info-bg{
+    background-image: linear-gradient(45deg, #0f0f0f 25%, #141414 25%, #141414 50%, #0f0f0f 50%, #0f0f0f 75%, #141414 75%, #141414 100%);
+    background-size: 14.14px 14.14px;
+}
