@@ -14,7 +14,7 @@ margin:0;
 /*header style*/
 .header{
     /*width: 100vw !important;*/
-    /*height: 100vh !important;*/
+    height: 100vh !important;
     background-image: url('../images/partybg.jpg');
     background-attachment: fixed;
     background-position: center;
