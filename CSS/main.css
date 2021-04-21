@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
 
 body{
-    height:100%;
+margin:0;
 }
 .jumbocenter{
     padding-top: 10%;
@@ -10,7 +10,8 @@ body{
 
 /*header style*/
 .header{
-    height:100%;
+    width: 100vw;
+    height: 100vh;
     background-image: url('../images/partybg.jpg');
     background-attachment: fixed;
     background-position: center;
